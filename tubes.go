@@ -1,5 +1,7 @@
 package main
+
 import "fmt"
+
 const MAX = 100
 
 type Barang struct {
